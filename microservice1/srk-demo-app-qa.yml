@@ -1,0 +1,4 @@
+---
+# This will be pulled up when no profile is given while browsing, example /microservice1
+
+message: Hello from microservice1, you are in qa profile
