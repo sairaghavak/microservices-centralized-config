@@ -2,3 +2,4 @@
 # This will be pulled up when no profile is given while browsing, example /microservice1
 
 message: Hello from microservice1, you are in no specific profile
+email: "{cipher}413a9f17e8c5d2c2b58fceb052cf5b0dc908e5e8ce54e06a0d6b4f78da58ea3d0f69d55f716db03ecf5c2c4d8650d4c1"
